@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\bin\Debug\netcoreapp2.1\FichaAcademia.Dominio.deps.json
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\bin\Debug\netcoreapp2.1\FichaAcademia.Dominio.dll
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\bin\Debug\netcoreapp2.1\FichaAcademia.Dominio.pdb
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\obj\Debug\netcoreapp2.1\FichaAcademia.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\obj\Debug\netcoreapp2.1\FichaAcademia.Dominio.AssemblyInfoInputs.cache
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\obj\Debug\netcoreapp2.1\FichaAcademia.Dominio.AssemblyInfo.cs
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\obj\Debug\netcoreapp2.1\FichaAcademia.Dominio.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\obj\Debug\netcoreapp2.1\FichaAcademia.Dominio.dll
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\obj\Debug\netcoreapp2.1\FichaAcademia.Dominio.pdb
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.Dominio\obj\Debug\netcoreapp2.1\FichaAcademia.Dominio.csproj.AssemblyReference.cache

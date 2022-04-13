@@ -1,0 +1,13 @@
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\bin\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.deps.json
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\bin\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.dll
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\bin\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.pdb
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\bin\Debug\netcoreapp2.1\FichaAcademia.Dominio.dll
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\bin\Debug\netcoreapp2.1\FichaAcademia.Dominio.pdb
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.AssemblyInfoInputs.cache
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.AssemblyInfo.cs
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.csproj.CopyComplete
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.dll
+D:\ProjetosC#\EstudosC#\ASPNET_CORE_MVC2\FichaAcademia_0096\FichaAcademia\FichaAcademia.AcessoDados\obj\Debug\netcoreapp2.1\FichaAcademia.AcessoDados.pdb
